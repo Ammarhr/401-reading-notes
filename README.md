@@ -10,7 +10,7 @@
 
 |__the read__  | __the Links__|
 | ------------ | ------------:|
-|   read 01    | [read01]()   |
+|   read 01    | [read01](https://github.com/Ammarhr/401-reading-notes/blob/master/class-01.md)   |
 |   read 02    | [read02]()   |
 |   read 03    | [read03]()   |
 |   read 04    | [read04]()   |
