@@ -3,15 +3,15 @@
 **HTTP** allows for communication between a variety of hosts and clients, and supports a mixture of network configurations.
 
 ### HTTP Methods:
-**GET:** Retrieve a resource.
-**HEAD:** Like GET but headers only.
-**POST:** Create a resource.
-**PUT:** Update a resource.
-**DELETE:** Delete a resource.
-**CONNECT:** Create TCP/IP tunnel.
-**OPTIONS:** Returns supported methods for a URL.
-**TRACE:** Echos retrieved request.
-**PATCH:** Partial modification of resource.
+- **GET:** Retrieve a resource.
+- **HEAD:** Like GET but headers only.
+- **POST:** Create a resource.
+- **PUT:** Update a resource.
+- **DELETE:** Delete a resource.
+- **CONNECT:** Create TCP/IP tunnel.
+- **OPTIONS:** Returns supported methods for a URL.
+- **TRACE:** Echos retrieved request.
+- **PATCH:** Partial modification of resource.
 
 ### What is URLs:
 **Uniform Resource Locators (URLs)** is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it
