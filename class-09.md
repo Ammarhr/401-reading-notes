@@ -1,4 +1,7 @@
-### router.param(name, callback)
+### API server:
+**Application Programming Interface (API)** is a lightweight Web application that allows users to create and expose data APIs from data, without the need for custom development. Through simple point-and-click configuration, user can create and configure access from popular clients like Microsoft Power BI, Salesforce Lightning Connect, SharePoint External Lists, Excel, PowerPivot, and more.
+
+### Router.param(name, callback)
 Adds callback triggers to route parameters, where name is the name of the parameter and callback is the callback function. 
 
 ###### The parameters of the callback function are:
