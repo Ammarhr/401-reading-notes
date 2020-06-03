@@ -19,7 +19,7 @@
 |   read 07    | [read07](https://github.com/Ammarhr/401-reading-notes/blob/master/class-06.md)   |
 |   read 08    | [read08](https://github.com/Ammarhr/401-reading-notes/blob/master/class-07.md)   |
 |   read 09    | [read09](https://github.com/Ammarhr/401-reading-notes/blob/master/class-08.md)   |
-|   read 10    | [read10]()   |
+|   read 10    | [read10](https://github.com/Ammarhr/401-reading-notes/blob/master/class-08.md)   |
 |   read 11    | [read11]()   |
 |   read 12    | [read12]()   |
 |   read 13    | [read13]()   |
