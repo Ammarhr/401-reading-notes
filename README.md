@@ -21,7 +21,7 @@
 |   read 09    | [read09](https://github.com/Ammarhr/401-reading-notes/blob/master/class-08.md)   |
 |   read 10    | [read10](https://github.com/Ammarhr/401-reading-notes/blob/master/stacks-and-queues.md)   |
 |   read 11    | [read11](https://github.com/Ammarhr/401-reading-notes/blob/master/class-11.md)   |
-|   read 12    | [read12]()   |
-|   read 13    | [read13]()   |
-|   read 14    | [read14]()   |
+|   read 12    | [read12](https://github.com/Ammarhr/401-reading-notes/blob/master/class-12.md)   |
+|   read 13    | [read13](https://github.com/Ammarhr/401-reading-notes/blob/master/class-13.md)   |
+|   read 14    | [read14](https://github.com/Ammarhr/401-reading-notes/blob/master/class-14.md)   |
 |   read 15    | [read15]()   |
